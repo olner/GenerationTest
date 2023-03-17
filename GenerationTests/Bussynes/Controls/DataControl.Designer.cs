@@ -51,16 +51,16 @@
             this.tableLayoutPanel1.Location = new System.Drawing.Point(3, 3);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 2;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 31.66667F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 68.33334F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(632, 60);
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(632, 53);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // name1Tb
             // 
             this.name1Tb.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.name1Tb.Location = new System.Drawing.Point(3, 22);
+            this.name1Tb.Location = new System.Drawing.Point(3, 29);
             this.name1Tb.Name = "name1Tb";
             this.name1Tb.Size = new System.Drawing.Size(164, 22);
             this.name1Tb.TabIndex = 0;
@@ -69,7 +69,7 @@
             // 
             this.text1Tb.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.text1Tb.Location = new System.Drawing.Point(173, 22);
+            this.text1Tb.Location = new System.Drawing.Point(173, 29);
             this.text1Tb.Name = "text1Tb";
             this.text1Tb.Size = new System.Drawing.Size(456, 22);
             this.text1Tb.TabIndex = 1;

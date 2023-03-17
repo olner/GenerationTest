@@ -12,7 +12,7 @@ namespace Bussynes
     {
         public DataControl BuildControl()
         {
-            var dataControl = new DataControl()
+            var dataControl = new DataControl(1)
             {
                 Anchor = AnchorStyles.Top | AnchorStyles.Right | AnchorStyles.Left,
             };
